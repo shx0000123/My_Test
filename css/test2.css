@@ -1,0 +1,126 @@
+.main{
+    width: 1500px;
+    margin: 0 auto;
+    /* border: 1px solid green; */
+}
+
+.firstPart{
+	margin-top: 0px;
+	width: 1500px;
+	height: 780px;
+	background-image: url(../images/25.jpg);
+    background-size:cover;
+	background-repeat:no-repeat ;
+	/* border:1px solid #8888ff; */
+}
+
+.secondPart{
+	margin: 70px 100px;
+	/* border:1px solid #8888ff; */
+    text-align: center;
+}
+
+.thirdPart{
+	width: 1500px;
+	height: 510px;
+	margin: 0 auto;
+	background-image: url(../images/bgc.png);
+	background-repeat:no-repeat ;
+	background-size:100%; 
+	/* border:1px solid #8888ff; */
+}
+
+.firstPart_up{
+    margin-left:70px;
+	margin-right: 70px;
+	margin-top: 50px;
+	height: 100px;
+	/* border:2px solid red; */
+}
+
+.menu{
+    width: 800px;
+	height: 40px;
+	margin-left: 80px;
+	margin-top: 50px;
+	float: left;
+	color: black;
+}
+    .menu ul{
+        margin: 0;
+        padding: 0;
+    }
+    .menu ul li{
+        font-size:20px;
+        font-weight: bold;
+        float: left;
+        width: 120px;
+        height: 40px;
+        text-align: center;
+        list-style: none;
+        line-height: 40px;
+        /* display: inline; */
+    }
+    .menu ul li a:link{
+        font-size:20px;
+        font-weight: bold;
+        color: rgb(156, 220, 60);
+    }
+    .menu ul li a:visited{
+        text-decoration: none;
+        color: rgb(156, 220, 60);
+    }
+    .menu ul li a:hover{
+        font-size: 25px;
+        display: block;
+        color: rgb(156, 220, 60);
+    }
+    .menu ul li a:active{
+        text-decoration: none;
+        color: rgb(156, 220, 60);
+    } 
+
+.logo{
+    margin-top: 50px;
+    margin-right: 50px;
+    float: right;
+    height: 80px;
+}
+
+.firstPart_down{
+    height: 400px;
+    width: 1000px;
+    margin-top: 400px;
+    margin-left: 150px;
+}
+
+.secondPart{
+    margin-left: 10px;
+}
+
+.thirdPart_up{
+	margin: 0 auto;
+	margin-left: 90px;
+	margin-top: 20px;
+	width: 1420px;
+	float: left;
+}
+
+.thirdPart_down{
+	margin-top: 20px;
+	margin-left: 90px;
+	height: 450px;
+	float: left;
+	width: 1320px;
+}
+.block{
+	width: 30%;
+	height:200px;
+	margin-left: 35px;
+	float: left;
+}
+.downText{
+	width: 1320px;
+	height: 260px;
+	margin-top: 70px;
+}
